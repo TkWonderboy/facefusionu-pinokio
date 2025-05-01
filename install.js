@@ -54,7 +54,7 @@ module.exports = async kernel =>
 				params:
 				{
 					message: install(kernel),
-					path: 'facefusion',
+					path: 'facefusion-unlocker',
 					env:
 					{
 						PYTHONNOUSERSITE: 'True'
